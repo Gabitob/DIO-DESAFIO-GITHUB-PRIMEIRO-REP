@@ -1,2 +1,2 @@
-# DIO-DESAFIO-GITHUB-PRIMEIRO-REP
+# DESAFIO de criação de repositórios git/github
 Desafio de Projeto Git/Github
